@@ -22,18 +22,5 @@
 4. bundle exec jekyll serve
 
 ## Directory Structure
-├── _config.yml
-├── about.md
-├── academics.md
-├── experience.md
-├── contact.md
-├── assets/
-│   ├── css/
-│   │   ├── global.css
-│   │   └── about-style.css
-│   │   └── experience-style.css
-│   │   └── academics-style.css
-│   └── images/
-│       ├── profile.jpg
-│       └── banner.jpg (optional)
+<pre> . ├── _config.yml ├── about.md ├── academics.md ├── contact.md ├── experience.md ├── assets/ │ ├── css/ │ │ ├── global.css │ │ ├── about-style.css │ │ ├── experience-style.css │ │ └── academics-style.css │ └── images/ │ ├── profile.jpg │ └── banner.jpg (optional) </pre>
 
