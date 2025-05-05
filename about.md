@@ -11,7 +11,7 @@ permalink: /about/
 <div class="cover-banner">
   <div class="cover-text">
     <h1>Quanquan Su</h1>
-    <p>ECE M.Eng @ Cornell | Federated Learning | AI Systems</p>
+    <p>ECE M.Eng @ Cornell</p>
   </div>
 </div>
 
@@ -25,12 +25,28 @@ permalink: /about/
 
 <hr>
 
+<h2>👨‍🎓 About Me in Life</h2>
+<p>
+  I was born and raised in China, and my journey has taken me from DLC to Cali and now to NY.  
+  Living across continents has shaped the way I think, work, and connect with people from different backgrounds.
+</p>
+
+<p>
+  Outside of academics and tech, I enjoy playing tennis ⚽️, exploring jazz music 🎷, and doing street photography 📷 during my travels.  
+  I'm always up for a late-night coding session with some good music in the background, and I value collaboration and curiosity above all.
+</p>
+
+<p>
+  I'm also a big fan of well-designed tools, clean code, and meaningful conversations. Whether it's solving a federated learning problem or just figuring out the best way to make tea 🍵, I love understanding how systems—technical or human—work and improve over time.
+</p>
+
+<hr>
+
 <h2>🛠️ Skills</h2>
 <div class="card-container">
   <div class="card"><i class="fab fa-python"></i> Python</div>
   <div class="card"><i class="fab fa-java"></i> Java</div>
   <div class="card">SpringBoot</div>
-  <div class="card">PyTorch</div>
   <div class="card"><i class="fab fa-docker"></i> Docker</div>
   <div class="card">Redis</div>
   <div class="card">RabbitMQ</div>
@@ -63,22 +79,6 @@ permalink: /about/
     <div class="timeline-content">
       <h3>Dalian University of Technology</h3>
       <p>Bachelor in Software Engineering</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-date">2024</div>
-    <div class="timeline-content">
-      <h3>Intern @ Shanghai General Motors</h3>
-      <p>TMS optimization, Redis/RabbitMQ integration</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-date">2023</div>
-    <div class="timeline-content">
-      <h3>Intern @ ICBC Yantai</h3>
-      <p>Medical insurance interface, OAuth2 + JWT</p>
     </div>
   </div>
 </div>

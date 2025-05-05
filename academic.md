@@ -4,32 +4,51 @@ title: Academics
 permalink: /academics/
 ---
 
-## 📘 Education
+<link rel="stylesheet" href="/assets/css/academics-style.css">
 
-- **Cornell University**, M.Eng. in ECE (2024–2025)  
-  Focus Areas: Distributed AI Systems, Machine Learning, Cloud Computing
+<h2><i class="fas fa-graduation-cap"></i> Education</h2>
 
-- **UC Irvine**, Exchange in EECS (2023–2024)  
-  GPA: 3.85 | Key Courses: Computer Vision, Data Structures, OS, Web Programming
+<div class="edu-grid">
 
-- **Dalian University of Technology**, B.S. Software Engineering (2020–2024)  
-  GPA: 3.56 | Capstone: Deep Image Retrieval using CNN + LSH
+  <div class="edu-card">
+    <h3>Cornell University</h3>
+    <p><strong>M.Eng. in Electrical & Computer Engineering</strong> (2024–2025)</p>
+    <p><em>Focus Areas:</em> Distributed AI Systems, Machine Learning, Cloud Computing</p>
+  </div>
 
----
+  <div class="edu-card">
+    <h3>UC Irvine</h3>
+    <p><strong>Exchange Program in EECS</strong> (2023–2024)</p>
+    <p>GPA: 3.85 | <em>Key Courses:</em> Computer Vision, OS, Web Programming</p>
+  </div>
 
-## 🔬 Research Interests
+  <div class="edu-card">
+    <h3>Dalian University of Technology</h3>
+    <p><strong>B.S. in Software Engineering</strong> (2020–2024)</p>
+    <p>GPA: 3.56 | <em>Capstone:</em> Deep Image Retrieval using CNN + LSH</p>
+  </div>
 
-- Federated learning & decentralized optimization  
-- AI model deployment and orchestration  
-- Computer vision and edge-cloud inference
+</div>
 
----
+<hr>
 
-## 🧪 Relevant Coursework
+<h2><i class="fas fa-microscope"></i> Research Interests</h2>
 
-- Machine Learning  
-- Data-Intensive Systems  
-- Distributed Systems  
-- Operating Systems  
-- Computer Networks  
-- Advanced Algorithms
+<ul class="pill-list">
+  <li>Federated Learning & Decentralized Optimization</li>
+  <li>AI Model Deployment & Orchestration</li>
+  <li>Edge-Cloud Inference & Computer Vision</li>
+</ul>
+
+<hr>
+
+<h2><i class="fas fa-book-open"></i> Relevant Coursework</h2>
+
+<div class="course-grid">
+  <span>Machine Learning</span>
+  <span>Data-Intensive Systems</span>
+  <span>Distributed Systems</span>
+  <span>Operating Systems</span>
+  <span>Computer Networks</span>
+  <span>Advanced Algorithms</span>
+</div>
