@@ -32,7 +32,7 @@ permalink: /about/
 </p>
 
 <p>
-  Outside of academics and tech, I enjoy playing tennis ⚽️, exploring jazz music 🎷, and doing street photography 📷 during my travels.  
+  Outside of academics and tech, I enjoy playing soccer ⚽️, exploring jazz music 🎷, and doing street photography 📷 during my travels.  
   I'm always up for a late-night coding session with some good music in the background, and I value collaboration and curiosity above all.
 </p>
 
